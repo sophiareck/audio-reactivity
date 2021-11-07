@@ -67,7 +67,7 @@ function setup() {
   backupCheck.style('border', 'solid');
   backupCheck.style('padding', '5px');
 
-  guitarCheck = createCheckbox('Guitar', true //checkbox for guitar
+  guitarCheck = createCheckbox('Guitar', true) //checkbox for guitar
     guitarCheck.position(1020, 240); guitarCheck.style('font-size', '15pt'); //style
     guitarCheck.style('font-weight', 'bold'); guitarCheck.style('background-color', colors[5]); guitarCheck.style('border', 'solid'); guitarCheck.style('padding', '5px');
 
